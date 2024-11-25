@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8ba0596.css",
+    "main.js": "/static/js/main.73677878.js",
+    "static/js/510.b50735a9.chunk.js": "/static/js/510.b50735a9.chunk.js",
+    "static/media/bgD.png": "/static/media/bgD.18d5aafa48f36549b3f6.png",
+    "static/media/bgC.png": "/static/media/bgC.bd1190f67577d278b276.png",
+    "static/media/bgB.png": "/static/media/bgB.de72df629d3cfb54bb82.png",
+    "static/media/2.png": "/static/media/2.ef2756c232528bc78d27.png",
+    "static/media/bgA.png": "/static/media/bgA.6ab39ad1343c6d571bf0.png",
+    "static/media/1.png": "/static/media/1.189d4c0323bbd5e3a5fc.png",
+    "static/media/circle6.png": "/static/media/circle6.d2a9743a252a2c2dcd32.png",
+    "static/media/circle7.png": "/static/media/circle7.5c086ac349d9b6ebc576.png",
+    "static/media/circle9.png": "/static/media/circle9.3cc3f69702f9343a559b.png",
+    "static/media/circle4.png": "/static/media/circle4.dab0d13f066f46734949.png",
+    "static/media/icon2.png": "/static/media/icon2.2863c54d46b30ff50427.png",
+    "static/media/icon3.png": "/static/media/icon3.fb9ab53799c6237880fc.png",
+    "static/media/icon1.png": "/static/media/icon1.12c9a30039a15e1c1102.png",
+    "static/media/video3.png": "/static/media/video3.b84182cbd99a2692ce7a.png",
+    "static/media/bg1.png": "/static/media/bg1.010ef1f5e95950bcd769.png",
+    "static/media/circle8.png": "/static/media/circle8.bdf4242305f9ec837c4f.png",
+    "static/media/video2.png": "/static/media/video2.59b1424176982acb011b.png",
+    "static/media/video1.png": "/static/media/video1.3e665ad324b27743bc82.png",
+    "static/media/circle3.png": "/static/media/circle3.0a7283312c58e37c43ab.png",
+    "static/media/circle5.png": "/static/media/circle5.e752cf7fb3eb2ca88311.png",
+    "static/media/circle10.png": "/static/media/circle10.7e1b5cbfc338f2a2b2fe.png",
+    "static/media/circle11.png": "/static/media/circle11.65c15bf4db82683f5943.png",
+    "static/media/circle1.png": "/static/media/circle1.8afc5bf2e119aa6c6561.png",
+    "static/media/circle12.png": "/static/media/circle12.48add1b0b5f47300a8c0.png",
+    "static/media/circle2.png": "/static/media/circle2.48add1b0b5f47300a8c0.png",
+    "static/media/video4.png": "/static/media/video4.5fb042e34afceaa0e71e.png",
+    "static/media/bg2.png": "/static/media/bg2.35cd795acdec6887eb37.png",
+    "static/media/3.png": "/static/media/3.e3cf1d144394a9784be2.png",
+    "static/media/bg3.png": "/static/media/bg3.45289758e3fc9f339e7b.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "main.css",
+    "static/css/main.c8ba0596.css",
+    "static/js/main.73677878.js"
+  ]
+}
